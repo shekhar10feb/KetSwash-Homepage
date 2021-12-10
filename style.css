@@ -1,5 +1,6 @@
 
 
+
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@500&display=swap');
 
 /* Global  */
@@ -114,6 +115,7 @@ section p{
     margin-bottom: 15px;
     padding: 0 10px;
     line-height: 1.3;
+    color: rgb(197, 194, 194);
 }
 
 @media(max-width: 1000px){
@@ -148,6 +150,7 @@ section p{
 .home-area h3{
     margin-bottom: 40px;
     font-size: 25px;
+    color: rgb(197, 194, 194);
 }
 
 .home-area form #fname{
@@ -157,7 +160,7 @@ section p{
     border-top-left-radius: 7px;
     border-bottom-left-radius: 7px;
     background: white;
-    color: gray;
+    color: rgb(197, 194, 194);
     font-size: 79%;
     font-family: 'Baloo Chettan 2', cursive;
     font-weight: bolder;
