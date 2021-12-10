@@ -1,4 +1,5 @@
 
+
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@500&display=swap');
 
 /* Global  */
@@ -173,6 +174,7 @@ section p{
     color: white;
     cursor: pointer;
     font-family: 'Baloo Chettan 2', cursive;
+    font-size: 14.32px;
 }
 
 .home-area form #submit{
