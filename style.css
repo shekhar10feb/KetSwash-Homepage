@@ -49,6 +49,10 @@ header h2{
     text-transform: uppercase;
 }
 
+header h2 a {
+    color: white;
+}
+
 header nav{
     display: -webkit-box;
     display: -webkit-flex;
